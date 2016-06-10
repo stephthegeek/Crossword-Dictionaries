@@ -1,0 +1,1384 @@
+;5
+dm;80
+go;80
+hp;80
+im;80
+ip;80
+os;80
+pc;80
+pm;80
+qa;80
+ux;80
+vc;80
+vr;80
+age;80
+ama;80
+aol;80
+app;80
+avi;80
+bae;80
+ban;80
+bar;80
+baz;80
+bbs;80
+big;80
+bit;80
+biz;80
+bob;80
+bot;80
+bug;80
+cad;80
+cam;80
+cat;80
+ccd;80
+cdn;80
+ceo;80
+cfo;80
+cgi;80
+cms;80
+com;80
+cpu;80
+css;80
+cto;80
+cut;80
+dna;80
+doc;80
+dog;80
+dox;80
+dpi;80
+DSL;80
+dvd;80
+dvi;80
+eat;80
+EDS;80
+edu;80
+egg;80
+emo;80
+end;80
+faq;80
+fat;80
+fml;80
+foo;80
+ftp;80
+geo;80
+gif;80
+gig;80
+gnu;80
+gov;80
+gps;80
+gui;80
+hat;80
+hex;80
+htm;80
+hue;80
+iot;80
+isp;80
+jpg;80
+lag;80
+lan;80
+law;80
+led;80
+log;80
+low;80
+lte;80
+mac;80
+mob;80
+mov;80
+mpg;80
+msn;80
+mud;80
+nas;80
+neo;80
+net;80
+ocr;80
+ood;80
+oop;80
+org;80
+oss;80
+pda;80
+pdf;80
+php;80
+png;80
+pop;80
+pot;80
+ram;80
+rgb;80
+rss;80
+run;80
+sap;80
+sca;80
+seo;80
+sig;80
+sim;80
+SLR;80
+ssd;80
+ssh;80
+tab;80
+tag;80
+teh;80
+til;80
+tld;80
+tmi;80
+tor;80
+txt;80
+upc;80
+ups;80
+url;80
+usb;80
+usr;80
+vga;80
+vim;80
+wap;80
+war;80
+wav;80
+web;80
+wii;80
+wmv;80
+www;80
+xls;80
+xml;80
+zip;80
+ral;76
+SOW;46
+TSS;28
+adsl;80
+atom;80
+back;80
+bait;80
+ball;80
+beta;80
+bill;80
+bing;80
+blog;80
+bomb;80
+book;80
+brin;80
+bump;80
+burn;80
+byte;80
+card;80
+case;80
+cerf;80
+cern;80
+chat;80
+cmos;80
+cmyk;80
+cnet;80
+coax;80
+code;80
+colo;80
+copy;80
+data;80
+dead;80
+demo;80
+derp;80
+desk;80
+digg;80
+disc;80
+disk;80
+divx;80
+dmoz;80
+dock;80
+down;80
+dslr;80
+dump;80
+dune;80
+ebay;80
+echo;80
+edge;80
+elon;80
+eric;80
+etsy;80
+eula;80
+exit;80
+fark;80
+file;80
+fire;80
+flat;80
+fold;80
+fomo;80
+food;80
+game;80
+geek;80
+gigs;80
+grey;80
+grid;80
+grok;80
+gtfo;80
+hack;80
+haha;80
+hash;80
+hdmi;80
+hehe;80
+hill;80
+hoax;80
+home;80
+html;80
+http;80
+hulu;80
+hunt;80
+iama;80
+ieee;80
+imdb;80
+imei;80
+imho;80
+ipad;80
+ipod;80
+isdn;80
+java;80
+jobs;80
+jpeg;80
+kewl;80
+kirk;80
+lamp;80
+leak;80
+leet;80
+lego;80
+like;80
+line;80
+link;80
+list;80
+lulz;80
+lyft;80
+mail;80
+make;80
+mbps;80
+meme;80
+meta;80
+mime;80
+mind;80
+mpeg;80
+mush;80
+musk;80
+name;80
+nano;80
+nasa;80
+nerd;80
+node;80
+nsfl;80
+nsfw;80
+oled;80
+omfg;80
+open;80
+page;80
+palm;80
+peck;80
+ping;80
+pipe;80
+play;80
+plug;80
+poof;80
+pool;80
+post;80
+pray;80
+pull;80
+push;80
+rate;80
+read;80
+risc;80
+road;80
+rtfm;80
+ruby;80
+rule;80
+safe;80
+sand;80
+sass;80
+scan;80
+seed;80
+siri;80
+spam;80
+ssid;80
+stfu;80
+sulu;80
+surf;80
+tech;80
+test;80
+text;80
+time;80
+tldr;80
+ttyl;80
+ttys;80
+uber;80
+user;80
+voip;80
+wifi;80
+wii u;80
+wiki;80
+woot;80
+worm;80
+xbox;80
+xkcd;80
+xvid;80
+ycom;80
+yolo;80
+zine;80
+adobe;80
+afaik;80
+agile;80
+alexa;80
+alice;80
+alien;80
+alpha;80
+anime;80
+apple;80
+ascii;80
+bacon;80
+baidu;80
+basic;80
+bbiab;80
+bbiaf;80
+beach;80
+bells;80
+below;80
+black;80
+block;80
+board;80
+brick;80
+bytes;80
+cable;80
+cdrom;80
+check;80
+cisco;80
+clean;80
+click;80
+cloud;80
+cobol;80
+codec;80
+coder;80
+crack;80
+crowd;80
+dafuq;80
+darpa;80
+debug;80
+digit;80
+doxed;80
+ebook;80
+emacs;80
+email;80
+emoji;80
+epson;80
+error;80
+ezine;80
+fence;80
+fiber;80
+flame;80
+flash;80
+forum;80
+front;80
+fuuuu;80
+gamer;80
+games;80
+gates;80
+geeks;80
+gmail;80
+grace;80
+heart;80
+honey;80
+hooli;80
+https;80
+image;80
+imgur;80
+inbox;80
+ipsum;80
+issue;80
+keanu;80
+larry;80
+linus;80
+linux;80
+lmfao;80
+login;80
+lorem;80
+lycos;80
+macro;80
+mahir;80
+maker;80
+manga;80
+micro;80
+moore;80
+mouse;80
+nerds;80
+nofap;80
+noise;80
+opera;80
+paste;80
+peter;80
+phone;80
+point;80
+pop up;80
+proof;80
+proxy;80
+rails;80
+ratio;80
+reply;80
+robot;80
+scifi;80
+scrum;80
+share;80
+short;80
+slack;80
+sonos;80
+speed;80
+spell;80
+spoof;80
+squat;80
+squee;80
+srsly;80
+stack;80
+stars;80
+steve;80
+stone;80
+style;80
+swipe;80
+table;80
+tcpip;80
+tests;80
+theft;80
+thiel;80
+touch;80
+trial;80
+troll;80
+tubes;80
+twain;80
+tweet;80
+twerk;80
+video;80
+viral;80
+virus;80
+warez;80
+watch;80
+whois;80
+wired;80
+xerox;80
+zwave;80
+recto;17
+Noe St;12
+access;80
+adware;80
+al gore;80
+aliens;80
+amazon;80
+amoled;80
+analog;80
+anchor;80
+avatar;80
+backer;80
+backup;80
+banner;80
+binary;80
+bionic;80
+borked;80
+botnet;80
+bubble;80
+buffer;80
+button;80
+camera;80
+carpal;80
+cccccc;80
+ccccff;80
+ccffcc;80
+center;80
+chrome;80
+cipher;80
+coding;80
+coffee;80
+colors;80
+cookie;80
+cyborg;80
+daemon;80
+decode;80
+defrag;80
+delete;80
+device;80
+dev ops;80
+domain;80
+dongle;80
+dot com;80
+doxing;80
+drupal;80
+duplex;80
+dvdrom;80
+dvorak;80
+easter;80
+eating;80
+editor;80
+edtech;80
+effect;80
+ffccff;80
+ffffcc;80
+ffffff;80
+filter;80
+floppy;80
+folder;80
+follow;80
+foo bar;80
+friend;80
+future;80
+gaming;80
+github;80
+google;80
+hacker;80
+hahaha;80
+handle;80
+hehehe;80
+heroku;80
+hoaxes;80
+hopper;80
+huffpo;80
+icloud;80
+iframe;80
+inkjet;80
+iphone;80
+iphoto;80
+itunes;80
+jabber;80
+kludge;80
+laptop;80
+launch;80
+legacy;80
+log out;80
+lolcat;80
+mailto;80
+mashup;80
+mcafee;80
+memory;80
+mining;80
+mmorpg;80
+mobile;80
+moores;80
+mortar;80
+newbie;80
+oculus;80
+off the;80
+opt out;80
+oracle;80
+packet;80
+pareto;80
+pascal;80
+paypal;80
+pcmcia;80
+pebkac;80
+phreak;80
+picard;80
+pirate;80
+policy;80
+portal;80
+prompt;80
+python;80
+qr code;80
+qwerty;80
+ransom;80
+readme;80
+reddit;80
+reeves;80
+retina;80
+reward;80
+robots;80
+rocket;80
+rotten;80
+router;80
+safari;80
+scrape;80
+screen;80
+script;80
+search;80
+selfie;80
+sensor;80
+sergey;80
+serial;80
+series;80
+server;80
+shared;80
+sheets;80
+signal;80
+smiley;80
+solder;80
+source;80
+spider;80
+static;80
+sticky;80
+stream;80
+switch;80
+syntax;80
+system;80
+tablet;80
+target;80
+techie;80
+terror;80
+tester;80
+text me;80
+thread;80
+toggle;80
+travis;80
+trello;80
+tumblr;80
+tunnel;80
+turing;80
+unlike;80
+unplug;80
+upload;80
+usenet;80
+vanity;80
+vector;80
+volume;80
+watson;80
+webcam;80
+web log;80
+widget;80
+window;80
+wizard;80
+account;80
+acrobat;80
+activex;80
+adapter;80
+address;80
+america;80
+and peck;80
+android;80
+apple id;80
+arduino;80
+aybabtu;80
+babbage;80
+backups;80
+bar code;80
+battery;80
+bill nye;80
+bitcoin;80
+blocker;80
+blogger;80
+boolean;80
+bricked;80
+brother;80
+browser;80
+carekit;80
+chapter;80
+charger;80
+chatbot;80
+checker;80
+cluster;80
+coaxial;80
+comcast;80
+command;80
+comment;80
+commons;80
+connect;80
+console;80
+control;80
+cookies;80
+copy and;80
+dark web;80
+default;80
+deleted;80
+devices;80
+dog food;80
+dropbox;80
+economy;80
+encrypt;80
+end user;80
+failure;80
+fallout;80
+fansite;80
+fantasy;80
+fatigue;80
+favicon;80
+feature;80
+fencing;80
+firebug;80
+firefox;80
+flaming;80
+founder;80
+gameboy;80
+gigabit;80
+gizmodo;80
+grey hat;80
+hacking;80
+hashtag;80
+history;80
+hosting;80
+hotmail;80
+hotspot;80
+hunt and;80
+inspect;80
+install;80
+instant;80
+keyword;80
+kiddies;80
+kilobit;80
+lagging;80
+landing;80
+latency;80
+license;80
+linking;80
+lolcats;80
+machine;80
+mailbox;80
+malware;80
+massage;80
+meeting;80
+megabit;80
+meta tag;80
+migrate;80
+mission;80
+monitor;80
+napster;80
+netflix;80
+network;80
+nyan cat;80
+offline;80
+offsite;80
+organic;80
+pandora;80
+patreon;80
+payment;80
+paywall;80
+physics;80
+pirates;80
+platter;80
+plug and;80
+podcast;80
+pointer;80
+pornhub;80
+power up;80
+printer;80
+privacy;80
+private;80
+prodigy;80
+profile;80
+program;80
+quantum;80
+redbull;80
+retweet;80
+reverse;80
+rewards;80
+robotic;80
+sandbox;80
+scanner;80
+schmidt;80
+science;80
+sharing;80
+shuttle;80
+sig file;80
+silicon;80
+smileys;80
+special;80
+spotify;80
+spyware;80
+stalker;80
+standup;80
+stapler;80
+startup;80
+sticker;80
+support;80
+techies;80
+testing;80
+texting;80
+the fold;80
+tipping;80
+to noise;80
+torrent;80
+traffic;80
+trekkie;80
+trinity;80
+turnkey;80
+twitter;80
+unicode;80
+upgrade;80
+utility;80
+vincent;80
+webcast;80
+webring;80
+web site;80
+wetware;80
+windows;80
+wysiwyg;80
+x window;80
+youtube;80
+zip disk;80
+analysis;80
+and paste;80
+animated;80
+apple pay;80
+app store;80
+assembly;80
+backbone;80
+backlink;80
+banner ad;80
+bells and;80
+below the;80
+beta test;80
+bio break;80
+biz stone;80
+black hat;80
+blogging;80
+blog post;80
+bookmark;80
+brick and;80
+bulletin;80
+burn rate;80
+butt dial;80
+buzzword;80
+caffeine;80
+chat room;80
+checkbox;80
+click and;80
+commerce;80
+computer;80
+cracking;80
+critical;80
+cybersex;80
+data dump;80
+deadpool;80
+dead tree;80
+deleting;80
+deselect;80
+designer;80
+diskette;80
+dogecoin;80
+download;80
+down time;80
+einstein;80
+elon musk;80
+emoticon;80
+engadget;80
+engineer;80
+etherium;80
+ethernet;80
+evernote;80
+explorer;80
+eyeballs;80
+eye candy;80
+facebook;80
+facepalm;80
+facetime;80
+favorite;80
+firehose;80
+firewall;80
+firmware;80
+flame war;80
+flash mob;80
+founders;80
+freeware;80
+front end;80
+futurama;80
+futurism;80
+geek chic;80
+geek code;80
+geofence;80
+gestures;80
+gigabits;80
+gigabyte;80
+gnutella;80
+gradient;80
+handheld;80
+hard copy;80
+hard disk;80
+hardware;80
+headdesk;80
+high tech;80
+hill road;80
+home page;80
+honeypot;80
+identity;80
+i kiss you;80
+imagemap;80
+infrared;80
+internet;80
+intranet;80
+jeopardy;80
+jerry rig;80
+joystick;80
+keyboard;80
+keywords;80
+kilobits;80
+kilobyte;80
+language;80
+last mile;80
+life hack;80
+linkedin;80
+listserv;80
+literate;80
+mapquest;80
+mashable;80
+medieval;80
+meetings;80
+megabits;80
+megabyte;80
+new media;80
+nintendo;80
+notebook;80
+obsolete;80
+official;80
+ondemand;80
+overload;80
+password;80
+planking;80
+platform;80
+podcasts;80
+pop under;80
+prosumer;80
+provider;80
+real time;80
+recovery;80
+redirect;80
+rickroll;80
+robotics;80
+sand hill;80
+scraping;80
+security;80
+semantic;80
+settings;80
+shopping;80
+short url;80
+signal to;80
+slashdot;80
+software;80
+sourcing;80
+speakers;80
+star trek;80
+startups;80
+star wars;80
+static ip;80
+stickers;80
+syndrome;80
+sysadmin;80
+tag cloud;80
+techdirt;80
+terabyte;80
+terminal;80
+the cloud;80
+the shelf;80
+timeline;80
+torvalds;80
+truncate;80
+upgraded;80
+usb cable;80
+username;80
+whistles;80
+white hat;80
+wireless;80
+xhamster;80
+addiction;80
+affiliate;80
+altavista;80
+analytics;80
+and mortar;80
+angelfire;80
+animation;80
+anonymize;80
+anonymous;80
+apple care;80
+apple maps;80
+ascending;80
+astronomy;80
+attention;80
+backwards;80
+bandwidth;80
+banner ads;80
+beach ball;80
+bill gates;80
+bloatware;80
+bluetooth;80
+bookmarks;80
+brain dump;80
+broadband;80
+bug report;80
+cascading;80
+cell phone;80
+character;80
+clickbait;80
+clipboard;80
+coax cable;80
+community;80
+crowdfund;80
+crunchies;80
+dead trees;80
+debugging;80
+dedicated;80
+developer;80
+directory;80
+dragon age;80
+easter egg;80
+ecommerce;80
+emoticons;80
+encrypted;80
+engineers;80
+ergonomic;80
+extension;80
+family guy;80
+favorites;80
+flame bait;80
+footprint;80
+front page;80
+gamer gate;80
+geocities;80
+geotarget;80
+gigabytes;80
+groupware;80
+grumpy cat;80
+guestbook;80
+gyroscope;80
+handshake;80
+hard drive;80
+hdmi cable;80
+heisenbug;80
+high speed;80
+hourglass;80
+hypertext;80
+incognito;80
+incubator;80
+indiegogo;80
+instagram;80
+installed;80
+interface;80
+ip address;80
+jailbreak;80
+kilobytes;80
+lamp stack;80
+larry page;80
+leet speak;80
+life hacks;80
+macintosh;80
+mario kart;80
+marketing;80
+megabytes;80
+megapixel;80
+messaging;80
+microblog;80
+microsoft;80
+migration;80
+mind share;80
+moderator;80
+moores law;80
+navigator;80
+neural net;80
+newsgroup;80
+operating;80
+palm pilot;80
+permalink;80
+photoshop;80
+phreaking;80
+pinterest;80
+play store;80
+principle;80
+processor;80
+quicktime;80
+readme txt;80
+robot wars;80
+satellite;80
+sensitive;80
+shareware;80
+signature;80
+smart home;80
+soldering;80
+spotlight;80
+squatting;80
+steve jobs;80
+streaming;80
+subdomain;80
+subreddit;80
+subwoofer;80
+switching;80
+targeting;80
+telescope;80
+terabytes;80
+the hobbit;80
+the matrix;80
+thinkgeek;80
+thumbnail;80
+trackball;80
+uncharted;80
+uninstall;80
+upgrading;80
+usability;80
+user error;80
+video card;80
+wikipedia;80
+wordpress;80
+youre a dog;80
+anchor text;80
+archimedes;80
+background;80
+bankruptcy;80
+berners-lee;80
+beta tester;80
+big brother;80
+bittorrent;80
+blockchain;80
+breadcrumb;80
+brogrammer;80
+bug reports;80
+bug tracker;80
+buzzworthy;80
+calculator;80
+call of duty;80
+characters;80
+chromebook;80
+click fraud;80
+code review;80
+cold fusion;80
+colocation;80
+compatible;80
+craigslist;80
+cyberstalk;80
+data center;80
+data mining;80
+descending;80
+domain name;80
+eating your;80
+encryption;80
+enterprise;80
+ergonomics;80
+flat screen;80
+generation;80
+geofencing;80
+godwins law;80
+google bomb;80
+google maps;80
+hacktivism;80
+headphones;80
+hypothesis;80
+illiterate;80
+insert mode;80
+interlaced;80
+in the cloud;80
+javascript;80
+lifehacker;80
+lithium ion;80
+lorem ipsum;80
+maker faire;80
+megapixels;80
+microscope;80
+middleware;80
+mindstorms;80
+multimedia;80
+multitouch;80
+networking;80
+noise ratio;80
+objective c;80
+oculus rift;80
+open source;80
+own dog food;80
+peer to peer;80
+peripheral;80
+peter thiel;80
+pocket dial;80
+postscript;80
+Post Secret;80
+power cable;80
+power strip;80
+resolution;80
+round robin;80
+scientific;80
+sergey brin;80
+server side;80
+source code;80
+spam filter;80
+spell check;80
+techcrunch;80
+text editor;80
+the it crowd;80
+time warner;80
+traceroute;80
+turing test;80
+view source;80
+worlds fair;80
+advertorial;80
+all your base;80
+and whistles;80
+apple script;80
+application;80
+blogosphere;80
+butt dialing;80
+captain kirk;80
+cheezburger;80
+clusterfuck;80
+cold storage;80
+command line;80
+compression;80
+crowdsource;80
+cybernetics;80
+cyber safety;80
+cyberterror;80
+display port;80
+distributed;80
+echo chamber;80
+electronics;80
+engineering;80
+environment;80
+eric schmidt;80
+facebooking;80
+file sharing;80
+fingerprint;80
+future proof;80
+google earth;80
+hacker space;80
+hexidecimal;80
+hunt and peck;80
+information;80
+its a feature;80
+keanu reeves;80
+kickstarter;80
+landing page;80
+mythbusters;80
+office space;80
+off the shelf;80
+pay per click;80
+peripherals;80
+pinch to zoom;80
+playstation;80
+plug and play;80
+plug and pray;80
+preferences;80
+programming;80
+project soli;80
+proprietary;80
+ransomeware;80
+ray kurzweil;80
+react native;80
+recognition;80
+renaissance;80
+revenge porn;80
+ruby on rails;80
+screensaver;80
+selfie stick;80
+semantic web;80
+singularity;80
+sourceforge;80
+style sheets;80
+tech support;80
+thunderbird;80
+time capsule;80
+touchscreen;80
+uninstalled;80
+unsubscribe;80
+web designer;80
+ycombinator;80
+airplane mode;80
+below the fold;80
+bill and steve;80
+brochureware;80
+call to action;80
+carpal tunnel;80
+click through;80
+connectivity;80
+copy and paste;80
+crowdfunding;80
+cyberculture;80
+cyberstalker;80
+data recovery;80
+digital detox;80
+donationware;80
+dot com bubble;80
+error message;80
+file transfer;80
+geotargeting;80
+hamster dance;80
+intrapreneur;80
+jailbreaking;80
+laser printer;80
+micropayment;80
+multitasking;80
+photoshopped;80
+pyrotechnics;80
+sand hill road;80
+search engine;80
+serial number;80
+shopping cart;80
+spell checker;80
+stileproject;80
+superhighway;80
+the crunchies;80
+tipping point;80
+to noise ratio;80
+transmission;80
+transmogrify;80
+user friendly;80
+world wide web;80
+adding machine;80
+affiliate link;80
+are belong to us;80
+big bang theory;80
+bulletin board;80
+captain picard;80
+case sensitive;80
+charging cable;80
+compatibility;80
+constellation;80
+crowdsourcing;80
+cryptographic;80
+cyberstalking;80
+digital camera;80
+eating your own;80
+funemployment;80
+google bombing;80
+identity theft;80
+ink jet printer;80
+lifestreaming;80
+net neutrality;80
+neural network;80
+on the internet;80
+pocket dialing;80
+privacy policy;80
+retina display;80
+script kiddies;80
+shared hosting;80
+signal to noise;80
+silicon valley;80
+stack overflow;80
+supercomputer;80
+teledildonics;80
+transhumanism;80
+url shortening;80
+virtual avatar;80
+albert einstein;80
+america offline;80
+assassins creed;80
+brick and mortar;80
+click and mortar;80
+cloud computing;80
+conversion rate;80
+cryptocurrency;80
+cyberterrorism;80
+cyberterrorist;80
+data processing;80
+handheld device;80
+home automation;80
+infrastructure;80
+lord of the rings;80
+macbook charger;80
+microprocessor;80
+object oriented;80
+quality control;80
+quantified self;80
+science fiction;80
+screen scraping;80
+the singularity;80
+venture capital;80
+virtualization;80
+virtual reality;80
+winter is coming;80
+backgroundcolor;80
+computer science;80
+creative commons;80
+internet service;80
+league of legends;80
+mission critical;80
+operating system;80
+pareto principle;80
+password manager;80
+reverse engineer;80
+service provider;80
+attention economy;80
+augmented reality;80
+instant messaging;80
+internet explorer;80
+internet of things;80
+push notification;80
+quality assurance;80
+challenge accepted;80
+neil degrasse tyson;80
+regular expression;80
+first world problems;80
+regular expressions;80
+theory of relativity;80
+information overload;80
+artificial intelligence;80

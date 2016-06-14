@@ -1,4 +1,3 @@
-;5
 dm;80
 go;80
 hp;80
@@ -138,9 +137,8 @@ www;80
 xls;80
 xml;80
 zip;80
-ral;76
-SOW;46
-TSS;28
+ral;80
+SOW;80
 adsl;80
 atom;80
 back;80
@@ -450,8 +448,8 @@ whois;80
 wired;80
 xerox;80
 zwave;80
-recto;17
-Noe St;12
+recto;80
+Noe St;80
 access;80
 adware;80
 al gore;80
@@ -1382,3 +1380,282 @@ regular expressions;80
 theory of relativity;80
 information overload;80
 artificial intelligence;80
+vaguebook;80
+vague;80
+vaguebooking;80
+vaguebooks;80
+admin;80
+administrator;80
+admins;80
+administrators;80
+mediawiki;80
+content;80
+content management;80
+management system;80
+management;80
+system;80
+analysis;80
+systems;80
+erd;80
+flow chart;80
+query;80
+queries;80
+sql;80
+sql query;80
+db;80
+database;80
+rows;80
+columns;80
+row;80
+column;80
+record;80
+records;80
+frys;80
+radio shack;80
+radio;80
+shack;80
+electronics;80
+central;80
+processing;80
+unit;80
+central processing;80
+processing unit;80
+tcp;80
+yahoo;80
+delicious;80
+yelp;80
+urban dictionary;80
+pixel density;80
+density;80
+pixels;80
+rgb;80
+screensaver;80
+cowork;80
+coworking;80
+xp;80
+extreme;80
+extreme programming;80
+pair programming;80
+pair;80
+data processing;80
+type;80
+typing;80
+angry;80
+birds;80
+angry birds;80
+ios;80
+store;80
+app store;80
+play store;80
+installation;80
+uninstalled;80
+mousepad;80
+trackball;80
+hub;80
+fix;80
+bug fix;80
+patch;80
+patches;80
+patched;80
+bug fixes;80
+signal;80
+photoshop;80
+adobe photoshop;80
+iphoto;80
+plugin;80
+applet;80
+twitch;80
+periscope;80
+product hunt;80
+hacker news;80
+news;80
+hunt;80
+product;80
+pentium;80
+asus;80
+acer;80
+dell;80
+celeron;80
+amd;80
+intel;80
+core;80
+cores;80
+geforce;80
+video;80
+video card;80
+ati;80
+radeon;80
+sneakers;80
+sneakernet;80
+the net;80
+matrix;80
+fintech;80
+edtech;80
+random;80
+randomize;80
+randomized;80
+datum;80
+spider;80
+crawler;80
+pagerank;80
+link juice;80
+atari;80
+nes;80
+snes;80
+sega;80
+genesis;80
+sega genesis;80
+entertainment system;80
+dreamcast;80
+steam;80
+seeds;80
+leech;80
+leeches;80
+tracker;80
+tracking cookie;80
+java applet;80
+on the web;80
+information superhighway;80
+superhighway;80
+highway;80
+chan;80
+cnet;80
+ziff davis;80
+davis;80
+ziff;80
+volume up;80
+volume down;80
+gizmo;80
+recursion;80
+recursive;80
+specifications;80
+specs;80
+valleywag;80
+mechanical;80
+turk;80
+mechanical turk;80
+wolfram;80
+alpha;80
+wolfram alpha;80
+sonic;80
+the hedgehog;80
+sonic the hedgehog;80
+sonic the;80
+above the fold;80
+above the;80
+the fold;80
+secure;80
+secured;80
+harden;80
+hardened;80
+hardening;80
+sql server;80
+excel;80
+ms excel;80
+ms word;80
+word;80
+microsoft word;80
+clippy;80
+clipart;80
+printer friendly;80
+eof;80
+syn;80
+ack;80
+debugged;80
+bubble sort;80
+loop;80
+for loop;80
+if then;80
+if;80
+then;80
+do while;80
+do while loop;80
+do while x is true;80
+ide;80
+slack bot;80
+im feeling lucky;80
+snapchat;80
+snap;80
+snaps;80
+story;80
+stories;80
+database backup;80
+database backups;80
+merge;80
+git;80
+push;80
+clone;80
+repository;80
+git repository;80
+version control;80
+dual core;80
+quad core;80
+chill;80
+netflix and;80
+netflix and chill;80
+high resolution;80
+high res;80
+lcd monitor;80
+led monitor;80
+docking station;80
+qos;80
+chromecast;80
+apple tv;80
+rechargeable;80
+double;80
+triple;80
+aa;80
+aaa;80
+running out of ink;80
+run out of ink;80
+restart;80
+restarted;80
+reboot;80
+rebooted;80
+shut down;80
+chrome os;80
+wall wart;80
+server room;80
+server rack;80
+rack;80
+jquery;80
+hadoop;80
+node js;80
+swift;80
+library;80
+libraries;80
+api;80
+apis;80
+callback;80
+perl;80
+shell;80
+angular;80
+angular js;80
+web browser;80
+email client;80
+webmail;80
+mail server;80
+firewalls;80
+backspace;80
+ctrl;80
+del;80
+alt;80
+return;80
+enter;80
+shift;80
+command;80
+tab;80
+caps;80
+lock;80
+caps lock;80
+esc;80
+function;80
+conference;80
+controller;80
+joystick;80
+math;80
+mathematics;80
+electricity;80
+battery indicator;80
+skype;80
+imessage;80
